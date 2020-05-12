@@ -10,6 +10,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="System.Interactive.Async" Version="4.0.0" PrivateAssets="All" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\FubarDev.WebDavServer\FubarDev.WebDavServer.csproj" />
   </ItemGroup>
 </Project>
