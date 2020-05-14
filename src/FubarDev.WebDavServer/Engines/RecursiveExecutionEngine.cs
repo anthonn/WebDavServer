@@ -12,7 +12,8 @@ using System.Threading.Tasks;
 using FubarDev.WebDavServer.FileSystem;
 using FubarDev.WebDavServer.Model.Headers;
 using FubarDev.WebDavServer.Props;
-
+using FubarDev.WebDavServer.Utils;
+using Fubar.System.Linq;
 using Microsoft.Extensions.Logging;
 
 namespace FubarDev.WebDavServer.Engines
