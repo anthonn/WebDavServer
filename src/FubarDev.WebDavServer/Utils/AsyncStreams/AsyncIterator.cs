@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Fubar.System.Linq
+namespace FubarDev.WebDavServer.Utils.AsyncStreams
 {
     // REVIEW: The base class below was introduced to avoid the overhead of storing a field of type TSource if the
     //         value of the iterator can trivially be inferred from another field (e.g. in Repeat). It is also used

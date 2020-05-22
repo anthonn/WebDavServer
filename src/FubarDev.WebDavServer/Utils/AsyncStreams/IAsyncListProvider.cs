@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Fubar.System.Linq
+namespace FubarDev.WebDavServer.Utils.AsyncStreams
 {
     /// <summary>
     /// An iterator that can produce an array or <see cref="List{TElement}"/> through an optimized path.

@@ -6,7 +6,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Fubar.System.Linq
+namespace FubarDev.WebDavServer.Utils.AsyncStreams
 {
     public static partial class AsyncEnumerable
     {

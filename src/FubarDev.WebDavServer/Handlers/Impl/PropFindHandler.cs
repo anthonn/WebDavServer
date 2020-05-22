@@ -9,14 +9,13 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using Fubar.System.Linq;
 using FubarDev.WebDavServer.FileSystem;
 using FubarDev.WebDavServer.Model;
 using FubarDev.WebDavServer.Model.Headers;
 using FubarDev.WebDavServer.Props.Filters;
 using FubarDev.WebDavServer.Props.Live;
 using FubarDev.WebDavServer.Utils;
-
+using FubarDev.WebDavServer.Utils.AsyncStreams;
 using Microsoft.Extensions.Options;
 
 namespace FubarDev.WebDavServer.Handlers.Impl

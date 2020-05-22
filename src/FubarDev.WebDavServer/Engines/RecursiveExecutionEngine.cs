@@ -13,7 +13,7 @@ using FubarDev.WebDavServer.FileSystem;
 using FubarDev.WebDavServer.Model.Headers;
 using FubarDev.WebDavServer.Props;
 using FubarDev.WebDavServer.Utils;
-using Fubar.System.Linq;
+using FubarDev.WebDavServer.Utils.AsyncStreams;
 using Microsoft.Extensions.Logging;
 
 namespace FubarDev.WebDavServer.Engines

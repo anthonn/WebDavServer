@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Fubar.System.Linq
+namespace FubarDev.WebDavServer.Utils.AsyncStreams
 {
     internal partial class AsyncIteratorBase<TSource>
     {

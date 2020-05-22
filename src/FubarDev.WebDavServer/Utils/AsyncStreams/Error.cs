@@ -4,7 +4,7 @@
 
 using System;
 
-namespace Fubar.System
+namespace FubarDev.WebDavServer.Utils.AsyncStreams
 {
     internal static class Error
     {

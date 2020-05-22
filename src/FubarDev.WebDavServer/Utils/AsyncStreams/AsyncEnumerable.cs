@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace Fubar.System.Linq
+namespace FubarDev.WebDavServer.Utils.AsyncStreams
 {
     /// <summary>
     /// Provides a set of extension methods for <see cref="IAsyncEnumerable{T}"/>.
